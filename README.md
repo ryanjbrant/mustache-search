@@ -1,6 +1,6 @@
-# Image Grid Effects
+# Search Function with Image Effects
 
-Some inspiration for effects on image grids. The ideas include animations on the opening grid item, the disappearance of the grid and the resulting view.
+I am working with mustache and attempting to utilize the image grid effects found on coderops to animate my search item into view.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=25256)
 
