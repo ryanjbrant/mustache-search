@@ -1,6 +1,6 @@
 # Search Function with Image Effects
 
-I am working with mustache and attempting to utilize the image grid effects found on coderops to animate my search item into view.
+I am creating a pretty awesome search reveal that I think a lot of people would love to fork. I was able to successfully create a JSON based search engine that utilizes mustache.js as a template system. Now I am trying to utilize codrops "Image Grid Effects - Demo 2" to launch my selected item and thats where I am running into a little bottleneck. I am pretty sure I just need to call the grid function on my search keyup, but I can't seem to find my way around doing this correctly. I would love it someone could help me understand it better. As there wasn't a lot of documentation around the original article files.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=25256)
 
