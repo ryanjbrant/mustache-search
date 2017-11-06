@@ -1,0 +1,415 @@
+[
+{
+    "artist": "Justin Bieber",
+    "tour": "Purpose",
+    "img": "./images/01.jpg",
+    "cover": "./images/revsliders/covers/d2a77-es.png",
+    "artwork": [
+    {
+        "index": "0",
+        "type": "Portrait",
+        "url": "./images/01.jpg"
+    },
+    {
+        "index": "1",
+        "type": "Landscape",
+        "url": "./images/01.jpg"
+    }],
+    "audio": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    }],
+    "video": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "3",
+        "type": "Superless",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "4",
+        "type": "XSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "5",
+        "type": "YSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "6",
+        "type": "Solo",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    }]
+},
+{
+    "artist": "Justin Bieber",
+    "tour": "Purpose",
+    "img": "./images/01.jpg",
+    "cover": "./images/revsliders/covers/d2a77-es.png",
+    "artwork": [
+    {
+        "index": "0",
+        "type": "Portrait",
+        "url": "./images/01.jpg"
+    },
+    {
+        "index": "1",
+        "type": "Landscape",
+        "url": "./images/01.jpg"
+    }],
+    "audio": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    }],
+    "video": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "3",
+        "type": "Superless",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "4",
+        "type": "XSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "5",
+        "type": "YSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "6",
+        "type": "Solo",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    }]
+},
+{
+    "artist": "Justin Bieber",
+    "tour": "Purpose",
+    "img": "./images/01.jpg",
+    "cover": "./images/revsliders/covers/d2a77-es.png",
+    "artwork": [
+    {
+        "index": "0",
+        "type": "Portrait",
+        "url": "./images/01.jpg"
+    },
+    {
+        "index": "1",
+        "type": "Landscape",
+        "url": "./images/01.jpg"
+    }],
+    "audio": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    }],
+    "video": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "3",
+        "type": "Superless",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "4",
+        "type": "XSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "5",
+        "type": "YSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "6",
+        "type": "Solo",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    }]
+},
+{
+    "artist": "Justin Bieber",
+    "tour": "Purpose",
+    "img": "./images/01.jpg",
+    "cover": "./images/revsliders/covers/d2a77-es.png",
+    "artwork": [
+    {
+        "index": "0",
+        "type": "Portrait",
+        "url": "./images/01.jpg"
+    },
+    {
+        "index": "1",
+        "type": "Landscape",
+        "url": "./images/01.jpg"
+    }],
+    "audio": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    }],
+    "video": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "3",
+        "type": "Superless",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "4",
+        "type": "XSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "5",
+        "type": "YSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "6",
+        "type": "Solo",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    }]
+},
+{
+    "artist": "P!nk",
+    "tour": "Beautiful Trauma",
+    "img": "./images/02.jpg",
+    "cover": "./images/revsliders/covers/d2a77-es.png",
+    "artwork": [
+    {
+        "index": "0",
+        "type": "Portrait",
+        "url": "./images/02.jpg"
+    },
+    {
+        "index": "1",
+        "type": "Landscape",
+        "url": "./images/02.jpg"
+    }],
+    "audio": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    }],
+    "video": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "3",
+        "type": "Superless",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "4",
+        "type": "XSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "5",
+        "type": "YSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "6",
+        "type": "Solo",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    }]
+},
+{
+    "artist": "Thirty Seconds To Mars",
+    "tour": "Purpose",
+    "img": "./images/03.jpg",
+    "cover": "./images/revsliders/covers/d2a77-es.png",
+    "artwork": [
+    {
+        "index": "0",
+        "type": "Portrait",
+        "url": "./images/03.jpg"
+    },
+    {
+        "index": "1",
+        "type": "Landscape",
+        "url": "./images/03.jpg"
+    }],
+    "audio": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./audio/BlueDucks_FourFlossFiveSix.mp3"
+    }],
+    "video": [
+    {
+        "index": "0",
+        "type": "Generic",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "1",
+        "type": "Amex",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "2",
+        "type": "Citi",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "3",
+        "type": "Superless",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "4",
+        "type": "XSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "5",
+        "type": "YSupport",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    },
+    {
+        "index": "6",
+        "type": "Solo",
+        "url": "./assets/98920-3f854-GTC091953.mp4"
+    }]
+}]
