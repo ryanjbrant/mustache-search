@@ -6,12 +6,6 @@ I am creating a pretty awesome search reveal that I think a lot of people would 
 
 [Demo](http://tympanus.net/Development/ImageGridEffects/)
 
-## License
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: [License](http://tympanus.net/codrops/licensing/)
-
 ## Credits
 
 [Masonry](http://masonry.desandro.com/) by [David DeSandro](http://desandro.com/). Released under the [MIT license](http://desandro.mit-license.org).
