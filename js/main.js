@@ -9,7 +9,48 @@
  * http://www.codrops.com
  */
 
+$.getJSON('data/searchData.json', function(data) {
+var logTime = {};
 
+function searchEngine(searchString, searchKey, searchData) {
+	logTime.start = Date.now();
+	var result = [];
+
+	$.each(searchData, function(i, item) {
+		//console.log(this[searchKey].indexOf(searchString));
+		if (this[searchKey].toLowerCase().indexOf(searchString) >= 0) {
+			result.push(item);
+		}
+
+	});
+	return result;
+}
+
+
+$("#searchText, #searchField").on("change paste keyup", function() {
+	var searchText = $("#searchText").val().toLowerCase();
+	var searchField = $("#searchField").val();
+	console.log(searchField);
+	//console.log(searchEngine(searchText,'artist',data));
+	var searchResult = searchEngine(searchText, searchField, data);
+	var template = '{{ #. }}\
+					<div class="search-result grid__item" data-artist="{{artist}}" data-tour="{{tour}}">\
+						<a href="{{img}}" class="img-wrap">\
+							<div class="search-item flex-row">\
+								<img class="artwork" src="{{img}}">\
+								<div class="flex-column">\
+									<h3 class="search-name">{{artist}}</h1>\
+									<h4 class="search-tour">{{tour}}</h2>\
+								</div>\
+							</div>\
+                            <div class="description description--grid">{{Name}}</div>\
+                        </a>\
+					</div>\
+					{{ /. }}';
+	var html = Mustache.to_html(template, searchResult);
+	$(".grid").html(html);
+});
+});
 ;(function(window) {
 
 	'use strict';
@@ -66,7 +107,7 @@
 		}
 		return a;
 	}
-	
+
 	/**
 	 * GridFx obj
 	 */
@@ -343,49 +384,6 @@
 			});
 		});
 	};
-
-	$.getJSON('data/searchData.json', function(data) {
-	var logTime = {};
-
-	function searchEngine(searchString, searchKey, searchData) {
-		logTime.start = Date.now();
-		var result = [];
-
-		$.each(searchData, function(i, item) {
-			//console.log(this[searchKey].indexOf(searchString));
-			if (this[searchKey].toLowerCase().indexOf(searchString) >= 0) {
-				result.push(item);
-			}
-
-		});
-		return result;
-	}
-
-
-	$("#searchText, #searchField").on("change paste keyup", function() {
-		var searchText = $("#searchText").val().toLowerCase();
-		var searchField = $("#searchField").val();
-		console.log(searchField);
-		//console.log(searchEngine(searchText,'artist',data));
-		var searchResult = searchEngine(searchText, searchField, data);
-		var template = '{{ #. }}\
-						<div class="search-result grid__item" data-artist="{{artist}}" data-tour="{{tour}}">\
-							<a href="{{img}}" class="img-wrap">\
-								<div class="search-item flex-row">\
-									<img class="artwork" src="{{img}}">\
-									<div class="flex-column">\
-										<h3 class="search-name">{{artist}}</h1>\
-										<h4 class="search-tour">{{tour}}</h2>\
-									</div>\
-								</div>\
-	                            <div class="description description--grid">{{Name}}</div>\
-	                        </a>\
-						</div>\
-						{{ /. }}';
-		var html = Mustache.to_html(template, searchResult);
-		$(".grid").html(html);
-	});
-	});
 
 	/**
 	 * gets the window sizes
